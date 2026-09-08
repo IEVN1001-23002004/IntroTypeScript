@@ -10,3 +10,7 @@ let boleano:boolean
  
 let suma:number = num+num1+num2 
 console.log("La Suma es: "+suma)
+
+let matricula:number|string
+matricula = "UTL23001234"
+console.log(matricula)
